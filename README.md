@@ -18,3 +18,6 @@ You can start editing the page by modifying `pages/Home.tsx`. The page auto-upda
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+### Image
+
+![img](screenshot/img.png)
